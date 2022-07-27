@@ -1,0 +1,6 @@
+baseUrl: 'localhost:ccs'
+header: nope
+get:
+  baseUrl: 'localhost:ccs'
+  header: nope
+  get: not
