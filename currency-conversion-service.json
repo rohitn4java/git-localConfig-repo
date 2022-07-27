@@ -1,5 +1,9 @@
 {
 	"baseUrl": "localhost:ccs",
-	"header":"nope",
-	"get": "not"
+	"header": "nope",
+	"get": {
+		"baseUrl": "localhost:ccs",
+		"header": "nope",
+		"get": "not"
+	}
 }
